@@ -9,7 +9,7 @@
 
 ## Profile
 
-Second-year B.Tech Computer Science student and Reliance Foundation Scholar specializing in machine learning, data science, and object-oriented systems.  
+Third-year B.Tech Computer Science student and Reliance Foundation Scholar specializing in machine learning, data science, and object-oriented systems.  
 
 Experience in building applied ML pipelines, medical segmentation systems, anomaly detection frameworks, and backend-integrated AI applications.
 
